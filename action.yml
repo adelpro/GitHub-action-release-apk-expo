@@ -1,4 +1,9 @@
 name: Android APK Build & Release (Tag or Manual Trigger)
+description: 'Automates the process of building and releasing an APK for Expo projects.'
+author: 'Your GitHub Username'
+branding:
+  color: 'blue'
+  icon: 'package'
 
 on:
   push:
