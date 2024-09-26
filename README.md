@@ -154,7 +154,7 @@ git push origin v1.0.0
 
 For any questions, issues, or feedback, feel free to reach out:
 
- - **GitHub Issues:** Open an issue in the ([GitHub repository](https://www.github.com/adelpro/GitHub-action-release-apk/issues)).
+ - **GitHub Issues:** Open an issue in the ([GitHub repository](https://github.com/adelpro/GitHub-action-release-apk-expo/issues)).
  - **Twitter:** Reach us on Twitter @adelpro.
 
 We are happy to assist with any issues or feedback you may have regarding this GitHub Action.
